@@ -1,0 +1,9 @@
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\PiratiaServerManager.exe.config
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\PiratiaServerManager.exe
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\PiratiaServerManager.pdb
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.AssemblyReference.cache
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.Properties.Resources.resources
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.GenerateResource.cache
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.CoreCompileInputs.cache
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.exe
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.pdb
