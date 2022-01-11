@@ -7,3 +7,4 @@ D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\D
 D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.CoreCompileInputs.cache
 D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.exe
 D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.pdb
+D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.FormMain.resources
