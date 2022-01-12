@@ -94,5 +94,8 @@
   <ItemGroup>
     <None Include="Resources\Иконка админ.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pkodevlogo_min.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
