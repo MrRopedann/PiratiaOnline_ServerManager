@@ -73,6 +73,16 @@ namespace PiratiaServerManager.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pkodevlogo_min {
+            get {
+                object obj = ResourceManager.GetObject("pkodevlogo_min", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Иконка_админ {
             get {
                 object obj = ResourceManager.GetObject("Иконка админ", resourceCulture);
