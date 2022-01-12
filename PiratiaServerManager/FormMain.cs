@@ -9,7 +9,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using NLua;
 
 namespace PiratiaServerManager
 {
@@ -19,13 +18,9 @@ namespace PiratiaServerManager
         string buttonText = "";
         public FormMain()
         {
+            //Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
+            //Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
             InitializeComponent();
-            Lua nLua = new Lua();
-            nLua.DoFile(@"./Language/rus.lua");
-            LuaFunction func = nLua["langusage"] as LuaFunction;
-            var temp = func.Call();
-
-            comboBox1.Text = "Русский";
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -45,19 +40,6 @@ namespace PiratiaServerManager
                 buttonText = "";
                 pictureBox1.Image = Properties.Resources.pkodevlogo_full_png_9c0b058fcf0ebbfd09e443f272c3d328;
                 hideMenu = true;
-            }
-        }
-
-        private void comboBox1_TextChanged(object sender, EventArgs e)
-        {
-
-            if (comboBox1.Text == "Русский")
-            {
-                Thread.CurrentThread.CurrentUICulture = new CultureInfo("ru-RU");
-            }
-            else if (comboBox1.Text == "English")
-            {
-                Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-EN");
             }
         }
     }

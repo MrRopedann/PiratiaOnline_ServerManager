@@ -21,14 +21,6 @@ C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\Piratia
 C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.pdb
 C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\FontAwesome.Sharp.dll
 C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.CopyComplete
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\lua54.dll
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\liblua54.dylib
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\x86\lua54.dll
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\x64\lua54.dll
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\x64\liblua54.so
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\KeraLua.dll
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\NLua.dll
-C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\KeraLua.xml
 C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\en-US\PiratiaServerManager.resources.dll
 C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.FormMain.en-US.resources
 C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\en-US\PiratiaServerManager.resources.dll
