@@ -8,3 +8,16 @@ D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\D
 D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.exe
 D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.pdb
 D:\User_Files\Source Code\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.FormMain.resources
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\PiratiaServerManager.exe.config
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\PiratiaServerManager.exe
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\PiratiaServerManager.pdb
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.AssemblyReference.cache
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.SuggestedBindingRedirects.cache
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.FormMain.resources
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.Properties.Resources.resources
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.GenerateResource.cache
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.CoreCompileInputs.cache
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.exe
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.pdb
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\bin\Debug\FontAwesome.Sharp.dll
+C:\SourceCode\PiratiaOnline_ServerManager\PiratiaServerManager\obj\Debug\PiratiaServerManager.csproj.CopyComplete

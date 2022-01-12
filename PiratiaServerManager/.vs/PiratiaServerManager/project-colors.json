@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "e47cf3d3-10e9-4ef7-9b77-16dcdbb20f84": {
+      "ProjectGuid": "e47cf3d3-10e9-4ef7-9b77-16dcdbb20f84",
+      "DisplayName": "PiratiaServerManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
