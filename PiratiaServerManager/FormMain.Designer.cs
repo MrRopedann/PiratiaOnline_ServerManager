@@ -89,13 +89,13 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Image = global::PiratiaServerManager.Properties.Resources.Иконка_админ;
+            this.button1.Image = global::PiratiaServerManager.Properties.Resources.document_2_;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(0, 0);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(270, 61);
             this.button1.TabIndex = 1;
-            this.button1.Text = "Iteminfo";
+            this.button1.Text = "Edit .txt file";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // pictureBox1

@@ -97,5 +97,14 @@
   <ItemGroup>
     <None Include="Resources\pkodevlogo_min.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document%282%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

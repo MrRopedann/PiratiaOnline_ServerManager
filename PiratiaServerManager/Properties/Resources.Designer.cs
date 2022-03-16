@@ -63,6 +63,36 @@ namespace PiratiaServerManager.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap document {
+            get {
+                object obj = ResourceManager.GetObject("document", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap document_1_ {
+            get {
+                object obj = ResourceManager.GetObject("document(1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap document_2_ {
+            get {
+                object obj = ResourceManager.GetObject("document(2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pkodevlogo_full_png_9c0b058fcf0ebbfd09e443f272c3d328 {
             get {
                 object obj = ResourceManager.GetObject("pkodevlogo_full.png.9c0b058fcf0ebbfd09e443f272c3d328", resourceCulture);
